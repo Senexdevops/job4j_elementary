@@ -3,7 +3,6 @@ package ru.job4j.condition;
 import org.junit.jupiter.api.Test;
 import static org.assertj.core.api.Assertions.*;
 
-@SuppressWarnings("checkstyle:EmptyLineSeparator")
 class PointTest {
     @Test
     void when00to34then5() {
